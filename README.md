@@ -11,3 +11,14 @@ The LOGIN application is a simple Java Swing-based graphical user interface (GUI
 ## Prerequisites
 - Java Development Kit (JDK) installed on your machine.
 - An IDE or text editor for running Java applications (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code).
+- 
+- Compile the Java file:
+bash
+javac LOGIN.java
+
+Run the application:
+bash
+java LOGIN
+
+Usage
+Enter the username: tafadzwa
