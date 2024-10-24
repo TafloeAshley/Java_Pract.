@@ -16,6 +16,12 @@ The LOGIN application is a simple Java Swing-based graphical user interface (GUI
 bash
 javac LOGIN.java
 
+Usage
+Enter the username: tafadzwa
+Enter the password: password123
+Click on the "LOGIN" button.
+If the credentials are correct, a new window will appear with your welcome message.
+
 Run the application:
 bash
 java LOGIN
