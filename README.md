@@ -22,9 +22,6 @@ Enter the password: password123
 Click on the "LOGIN" button.
 If the credentials are correct, a new window will appear with your welcome message.
 
-Run the application:
-bash
-java LOGIN
 
-Usage
-Enter the username: tafadzwa
+
+
